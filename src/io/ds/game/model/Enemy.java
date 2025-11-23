@@ -1,5 +1,5 @@
 package game.model;
 
-public interface Enemy {
+public interface Enemy implements Character{
     
 }
